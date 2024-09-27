@@ -1,2 +1,4 @@
 # Java-PostFix-Calculator
-Java Calculator that uses postfix notation to interperate a user string and then evaluate and return the correct answer. 
+Evaluates a users inputted infix expression by converting it to postfix notation
+then sending it to an evaluate class.
+The files themselves are an Eclipse Project 
